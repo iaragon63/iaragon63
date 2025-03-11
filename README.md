@@ -23,18 +23,18 @@
 #### <div align="center">SOBRE MI:</div>  
   
 
-- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris.
+- 💻Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   
 
-- 👩‍🎓Egresado del Instituto Universitario de la Policía Federal (IUPFA) con el título de grado de ingeniero en telecomunicaciones.
+- 👩‍🎓Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-- 👩‍🎓Actualmente cursando la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial en el IFTS24.  
+- 👩‍🎓 is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.  
   
 
-- 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
+- 📚  is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.  
   
 
-- 🌱 Mi objetivo 2025 es continuar capacitandome en Java de forma fluida y seguir adelante con la profundización de las tecnolgias manejadas.    
+- 🌱 is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.    
   
 
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
